@@ -124,7 +124,7 @@ _More languages available with API keys_
 
 ### Live Demo
 
-- **Netlify**: (pollyglotai.netlify.app)
+- **Netlify**: https://pollyglotai.netlify.app
 - **Demo Mode**: No API keys required
 - **Instant Access**: Zero setup for portfolio viewing
 
@@ -212,9 +212,9 @@ This project demonstrates:
 
 **Soren Markussen Jensen**
 
-- **Email**: your-email@example.com
-- **LinkedIn**: (https://linkedin.com/in/yourprofile)
-- **Portfolio**: (https://portfolio-site-web-developer.netlify.app/)
+- **Email**: soren913@gmail.com
+- **LinkedIn**: https://linkedin.com/in/yourprofile
+- **Portfolio**: https://portfolio-site-web-developer.netlify.app/
 
 ---
 
