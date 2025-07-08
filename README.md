@@ -213,7 +213,7 @@ This project demonstrates:
 **Soren Markussen Jensen**
 
 - **Email**: soren913@gmail.com
-- **LinkedIn**: https://linkedin.com/in/yourprofile
+- **LinkedIn**: https://www.linkedin.com/in/s%C3%B8ren-jensen-developer/
 - **Portfolio**: https://portfolio-site-web-developer.netlify.app/
 
 ---
