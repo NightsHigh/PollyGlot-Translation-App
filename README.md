@@ -2,7 +2,7 @@
 
 > **Professional AI Translation Interface** | Built with React, TypeScript, OpenAI & Hugging Face
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://your-pollyglot.netlify.app) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](pollyglotai.netlify.app) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ![PollyGlot Screenshot](https://cdn.builder.io/api/v1/image/assets/TEMP/1711d0b1eb0c08d49aea056eadf142d425fe3470)
 
@@ -124,7 +124,7 @@ _More languages available with API keys_
 
 ### Live Demo
 
-- **Netlify**: [your-pollyglot.netlify.app](https://your-pollyglot.netlify.app)
+- **Netlify**: (pollyglotai.netlify.app)
 - **Demo Mode**: No API keys required
 - **Instant Access**: Zero setup for portfolio viewing
 
@@ -213,8 +213,8 @@ This project demonstrates:
 **Soren Markussen Jensen**
 
 - **Email**: your-email@example.com
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
+- **LinkedIn**: (https://linkedin.com/in/yourprofile)
+- **Portfolio**: (https://portfolio-site-web-developer.netlify.app/)
 
 ---
 
